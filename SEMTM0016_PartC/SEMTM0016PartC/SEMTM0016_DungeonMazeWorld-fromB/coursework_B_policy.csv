@@ -1,0 +1,26 @@
+Seed,Method,Run,Result
+23,Policy Iteration,1,139.52
+23,Policy Iteration,2,139.26
+23,Policy Iteration,3,167.45
+23,Policy Iteration,4,140.31
+23,Policy Iteration,5,139.78
+78,Policy Iteration,1,113.61
+78,Policy Iteration,2,113.58
+78,Policy Iteration,3,113.38
+78,Policy Iteration,4,113.62
+78,Policy Iteration,5,113.59
+124,Policy Iteration,1,116.85
+124,Policy Iteration,2,117.12
+124,Policy Iteration,3,120.2
+124,Policy Iteration,4,117.56
+124,Policy Iteration,5,117.85
+144,Policy Iteration,1,116.68
+144,Policy Iteration,2,126.06
+144,Policy Iteration,3,116.93
+144,Policy Iteration,4,117.86
+144,Policy Iteration,5,119.12
+148,Policy Iteration,1,156.26
+148,Policy Iteration,2,126.12
+148,Policy Iteration,3,126.05
+148,Policy Iteration,4,132.12
+148,Policy Iteration,5,130.12

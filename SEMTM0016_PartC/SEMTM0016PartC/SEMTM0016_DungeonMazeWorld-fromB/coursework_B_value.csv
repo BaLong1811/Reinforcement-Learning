@@ -1,0 +1,26 @@
+Seed,Method,Run,Result
+23,Value Iteration,1,1.1
+23,Value Iteration,2,1.11
+23,Value Iteration,3,1.1
+23,Value Iteration,4,1.12
+23,Value Iteration,5,1.11
+78,Value Iteration,1,1.06
+78,Value Iteration,2,1.07
+78,Value Iteration,3,1.06
+78,Value Iteration,4,1.08
+78,Value Iteration,5,1.06
+124,Value Iteration,1,1.1
+124,Value Iteration,2,1.11
+124,Value Iteration,3,1.1
+124,Value Iteration,4,1.09
+124,Value Iteration,5,1.12
+144,Value Iteration,1,1.07
+144,Value Iteration,2,1.08
+144,Value Iteration,3,1.1
+144,Value Iteration,4,1.09
+144,Value Iteration,5,1.07
+148,Value Iteration,1,1.09
+148,Value Iteration,2,1.11
+148,Value Iteration,3,1.1
+148,Value Iteration,4,1.12
+148,Value Iteration,5,1.14

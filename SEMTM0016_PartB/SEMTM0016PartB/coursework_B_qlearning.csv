@@ -1,0 +1,26 @@
+Seed,Method,Run,Result
+23,Q Learning,1, 0.59
+23,Q Learning,2, 0.58
+23,Q Learning,3, 0.60
+23,Q Learning,4, 0.61
+23,Q Learning,5, 0.56
+78,Q Learning,1, 0.62
+78,Q Learning,2, 0.63
+78,Q Learning,3, 0.60
+78,Q Learning,4, 0.61
+78,Q Learning,5, 0.64
+124,Q Learning,1, 0.44
+124,Q Learning,2, 0.45
+124,Q Learning,3, 0.47
+124,Q Learning,4, 0.44
+124,Q Learning,5, 0.45
+144,Q Learning,1, 0.37
+144,Q Learning,2, 0.36
+144,Q Learning,3, 0.35
+144,Q Learning,4, 0.34
+144,Q Learning,5, 0.32
+148,Q Learning,1, 0.44
+148,Q Learning,2, 0.46
+148,Q Learning,3, 0.45
+148,Q Learning,4, 0.47
+148,Q Learning,5, 0.49
